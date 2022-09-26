@@ -1,0 +1,31 @@
+#red{
+color:red;
+border: 1px solid blue;
+}
+
+.blue{
+  color:blue;
+  font-family: monospace;
+  font-size: 40px;
+
+  border-width: 1px;
+  border-color:red;
+  border-style:solid;
+}
+
+.big{
+  font-size: 50px;
+  font-family: monospace;
+  border:1py solid black;
+  color:green !important;
+}
+
+.cat-img{
+  border: 6px black dotted;
+  border-radius: 50%;
+
+}
+
+.cat-img:hover{
+  color:red;
+}
